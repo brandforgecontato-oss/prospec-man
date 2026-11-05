@@ -1,0 +1,4 @@
+{
+  "_readme": "Preço em USD por 1 milhão de tokens, por modelo (nome exato como em OPENAI_MODEL/OPENAI_MODEL_FAST). Confira o preço atual em https://openai.com/api/pricing antes de preencher — os valores mudam e não são inferidos pelo código. Um modelo sem entrada aqui faz a chamada falhar (o sistema nunca estima custo com número inventado).",
+  "models": {}
+}

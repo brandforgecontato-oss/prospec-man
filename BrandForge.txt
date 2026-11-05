@@ -1,0 +1,78 @@
+BrandForge: Identidade e Posicionamento
+29 de set. de 2026 · @Silvestre Fernandes da Silva
+Promessa e assinatura
+A BrandForge promete mais clientes e menos trabalho manual, com IA feita sob medida para o negócio de cada cliente.
+• Promessa central: "Mais clientes e menos trabalho manual, com IA feita sob medida para o seu negócio."
+• Assinatura: "IA sob medida para o seu negócio." Ela diz como a BrandForge trabalha. A promessa diz o que o cliente ganha.
+• Ideia do nome: forge é forjar, fazer peça por peça. A BrandForge forja a solução certa para cada negócio, e o nome já sustenta o "sob medida".
+• Princípio: a IA é o ingrediente. O produto é o resultado medido em número (mensagens respondidas, vendas recuperadas, horas poupadas).
+Para quem vende
+A BrandForge atende desde pequenos negócios que precisam de um site simples até empresas que precisam de soluções robustas, com uma única marca e degraus por estágio do problema, não por tamanho do cliente.
+• Pequenos negócios e autônomos (Brasil e Portugal): entram pelo diagnóstico e pelos degraus de presença e atendimento com IA.
+• Empresas maiores: entram pelo diagnóstico e vão direto para soluções sob medida, conforme os cases medidos aparecerem. Hoje o portfólio ainda é de pequenos, e empresa grande exige prova, contrato e segurança de dados.
+• Risco a vigiar: vender um site de R$1.200 e um projeto robusto sem uma linha lógica entre os dois passa pouca credibilidade nos dois extremos. A escada de ofertas resolve isso.
+Personalidade e tom de voz
+A BrandForge fala como um parceiro prático: direta, acessível e sem jargão de tecnologia.
+• Fala como: dono de negócio para dono de negócio, com exemplos do dia a dia e números concretos.
+• Evita: termos como "transformação digital" e "solução disruptiva", promessas vagas e estatísticas inventadas.
+• Regra de copy: clareza antes de esperteza. Resultado antes de recurso. Especificidade antes de adjetivo.
+Escada de ofertas
+Todo cliente entra pelo diagnóstico e sobe de degrau conforme o problema cresce, e cada degrau tem uma promessa em linguagem de cliente.
+Empresas maiores entram direto no degrau 3, sempre a partir de um diagnóstico. Pequenos entram pelo 1 ou pelo 2, e o 3 vira upgrade.
+Posicionamento contra concorrentes
+A IA em si virou commodity, então a BrandForge compete em diagnóstico, integração e resultado medido, não na ferramenta.
+Concorrente
+O que vende
+Onde é forte
+Ameaça para a BrandForge
+Wati e plataformas similares
+Chatbot de WhatsApp sem código para o dono montar sozinho
+Preço baixo e rapidez para começar
+Alta no degrau de atendimento básico
+SaaS de WhatsApp a partir de R$10 por mês
+Chatbot, cobrança e agendamento em plano barato
+Piso de preço baixíssimo
+Puxa a expectativa de preço para baixo
+Business AI do WhatsApp
+Agente de IA dentro do próprio WhatsApp Business, para PMEs
+Já está no app que o cliente usa
+Comoditiza o atendente de IA simples
+Pacote de atendimento por segmento
+R$599 por mês mais R$599 de setup, até 1.000 mensagens, um canal
+Preço fechado e simples
+Âncora de preço para o degrau 2
+Consultorias e plataformas grandes
+Projetos de automação para empresas maiores
+Marca e estrutura
+Baixa hoje, cresce se a BrandForge subir de porte
+O buraco no mercado: 45% dos executivos brasileiros ouvidos pela KPMG dizem ter projetos de IA operando de forma desconectada. Quem faz por você, integra ao negócio e mede o resultado tem espaço.
+Frase de posicionamento: Para donos de pequenos e médios negócios que perdem venda e tempo com trabalho manual, a BrandForge é o parceiro que constrói e cuida da IA sob medida do seu negócio, porque começa medindo onde ele perde dinheiro.
+Fragilidade: o "porque" só convence com prova. Os dois primeiros cases precisam sair com número medido.
+Lacuna da pesquisa: não foram mapeadas agências locais de Brasília nem de Braga, Coimbra e Aveiro. Os dados acima vêm de resultados de busca de 29/09/2026 e as páginas não foram abertas na íntegra, então vale conferir os preços antes de usar em proposta.
+Mensagem e objeções
+A mensagem principal promete resultado, prova com número e convida para o diagnóstico.
+• Título: "Mais clientes e menos trabalho manual, com IA feita sob medida para o seu negócio."
+• Subtítulo: "A gente descobre onde seu negócio perde tempo e dinheiro, constrói a solução e mostra o resultado em número."
+• Botão: "Quero meu diagnóstico"
+Se o dono pensa...
+A resposta da BrandForge
+"Já tenho WhatsApp Business ou uso ChatGPT"
+A ferramenta você já tem. Falta quem configure, conecte ao seu negócio e cuide.
+"E se a IA errar com meu cliente?"
+Você aprova as respostas antes de ir ao ar e assume a conversa quando quiser.
+"Vou ficar preso a vocês?"
+O site, o domínio e os dados são seus.
+"Deve ser caro"
+Preço fechado e sem taxa surpresa, com o que está incluso escrito na proposta.
+Como vende
+A BrandForge vende por um funil que começa no diagnóstico gratuito e termina em um case medido, que alimenta a próxima venda.
+• Gancho da abordagem: "Posso te mostrar em 20 minutos onde seu negócio perde clientes no WhatsApp?". Ele dá um motivo para responder sem pedir compromisso. Vale tratar como hipótese a testar.
+• Filtro antes de marcar: o negócio recebe mensagens todo dia? Já perdeu cliente por demora? Quem decide é a pessoa que está falando com a BrandForge? Assim o volume vem, mas o tempo vai só para quem pode virar cliente.
+• Canais: WhatsApp primeiro no Brasil e telefone primeiro em Portugal, como já está nas planilhas de prospecção.
+• Conteúdo nas redes: cases dos sites e dicas para donos de negócio, agora com o número do resultado.
+Preço e recorrência
+A proposta é trocar os 10% mensais uniformes por uma mensalidade fixa por oferta, justificada por um relatório mensal de resultado.
+• Por que mudar: 10% sobre o preço de venda fica desproporcional nos serviços de ticket alto (CRM, atendente de IA), onde a recorrência anual pode passar o valor da venda.
+• O que a mensalidade inclui: hospedagem, manutenção, ajustes, custos de WhatsApp e API dentro de um teto de mensagens, e o relatório mensal com o número do resultado.
+• Âncora de mercado: um pacote básico de atendimento aparece a R$599 por mês mais R$599 de setup (ver tabela de concorrentes). O degrau 2 precisa mostrar por que vale mais que isso.
+• Em aberto: os valores de cada mensalidade e o teto de mensagens dependem dos custos reais de API e de WhatsApp, a definir com o Filipe.

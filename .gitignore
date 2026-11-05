@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Business config with real data (commit business.example.json instead)
+config/business.json
+
+# Env and secrets
+.env
+.env.local
+
+# Chrome profile (Playwright/CDP) and browser artifacts
+.chrome-profile/
+screenshots/
+traces/
+.playwright-mcp/
+
+# Database and data
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+data/
+backups/
+
+# Build output
+.next/
+dist/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

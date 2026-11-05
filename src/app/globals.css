@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+/*
+ * Tokens extraídos de verdade do material de marca da BrandForge
+ * ("BrandForge versão curta.pdf") via amostragem de pixel — não são
+ * aproximação visual, são os hex reais usados no PDF.
+ */
+:root {
+  --color-ink: #17140f;
+  --color-body: #494033;
+  --color-gold: #d4af69;
+  --color-gold-deep: #7d5c1b;
+  --color-cream: #f7f1e3;
+  --color-paper: #ffffff;
+  --color-line: #e4d9c0;
+  /* Extensões funcionais — não estão no PDF (a marca não precisava sinalizar
+     erro/sucesso), mas ficam na mesma família de cor em vez de vermelho/verde
+     genéricos: "ember" é metal esfriando, "moss" é a mesma saturação baixa do "body". */
+  --color-ember: #b3492f;
+  --color-ember-soft: #f3e2dc;
+  --color-moss: #5c7248;
+  --color-moss-soft: #e6ead9;
+}
+
+@theme inline {
+  --color-ink: var(--color-ink);
+  --color-body: var(--color-body);
+  --color-gold: var(--color-gold);
+  --color-gold-deep: var(--color-gold-deep);
+  --color-cream: var(--color-cream);
+  --color-paper: var(--color-paper);
+  --color-line: var(--color-line);
+  --color-ember: var(--color-ember);
+  --color-ember-soft: var(--color-ember-soft);
+  --color-moss: var(--color-moss);
+  --color-moss-soft: var(--color-moss-soft);
+  --font-display: var(--font-playfair);
+  --font-sans: var(--font-inter);
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+}
+
+::selection {
+  background: var(--color-gold);
+  color: var(--color-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-gold-deep);
+  outline-offset: 2px;
+}
